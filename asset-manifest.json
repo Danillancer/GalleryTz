@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GalleryTz/static/css/main.ae993853.css",
+    "main.js": "/GalleryTz/static/js/main.6d9fe569.js",
+    "index.html": "/GalleryTz/index.html",
+    "main.ae993853.css.map": "/GalleryTz/static/css/main.ae993853.css.map",
+    "main.6d9fe569.js.map": "/GalleryTz/static/js/main.6d9fe569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae993853.css",
+    "static/js/main.6d9fe569.js"
+  ]
+}
