@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/TzGallegy/static/css/main.9abf1a1a.css",
-    "main.js": "/TzGallegy/static/js/main.a972294b.js",
-    "index.html": "/TzGallegy/index.html",
-    "main.9abf1a1a.css.map": "/TzGallegy/static/css/main.9abf1a1a.css.map",
-    "main.a972294b.js.map": "/TzGallegy/static/js/main.a972294b.js.map"
+    "main.css": "/GalleryTz/static/css/main.9abf1a1a.css",
+    "main.js": "/GalleryTz/static/js/main.a972294b.js",
+    "index.html": "/GalleryTz/index.html",
+    "main.9abf1a1a.css.map": "/GalleryTz/static/css/main.9abf1a1a.css.map",
+    "main.a972294b.js.map": "/GalleryTz/static/js/main.a972294b.js.map"
   },
   "entrypoints": [
     "static/css/main.9abf1a1a.css",
